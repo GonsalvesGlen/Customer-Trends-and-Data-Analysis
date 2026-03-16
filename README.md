@@ -3,6 +3,7 @@ Customer Shopping Behavior Analysis
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories. The goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to support data-driven business decisions.The project demonstrates an end-to-end data analytics workflow, including data cleaning, exploratory data analysis, SQL querying, and dashboard visualization.
 
 Project Objectives:
+
 •	Understand customer purchasing behaviour
 •	Identify high-revenue customer segments
 •	Analyse the impact of discounts and subscriptions
@@ -11,6 +12,7 @@ Project Objectives:
 
 
 Dataset Overview:
+
 The dataset contains 3,900 transactions and 18 columns including customer demographics, purchase details, and shopping behaviour indicators. 
 Key variables include:
    •	Customer Age, Gender, Location
